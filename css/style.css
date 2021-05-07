@@ -89,7 +89,6 @@ body {
   transition: transform 0.4s;
   position: relative;
   animation: fromBottom 4s ease-out;
-  /* animation-delay: 2s; */
 }
 
 .btn:hover {
